@@ -34,8 +34,8 @@ AvengaQATask/
 
 1. Clone the repo
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/nnikolikj/AvengaQATask
+   cd AvengaQATask
    ```
 
 2. Install dependencies
